@@ -13,26 +13,7 @@ Software engineer in Bangalore. At **[Talview](https://www.talview.com)** I've b
 
 ---
 
-### `[01]` Built on my own time
-
-| | Project | What it is | Get it |
-|:--|:--|:--|:--|
-| `P-01` | **[lazystash](https://github.com/tanishq-khandelwal/lazystash)** | Browse, preview and pop git stashes in a terminal UI. Rust · ratatui | [npm](https://www.npmjs.com/package/lazystash) · [crates.io](https://crates.io/crates/lazystash) |
-| `P-02` | **[BudgetBuddy](https://github.com/tanishq-khandelwal/BudgetBuddy)** | Personal finance, beautifully simple — budgets, CSV import, recurring bills, reports. Next.js · Drizzle · PostgreSQL | [Live app](https://budgetbuddy.tanishq.foo/) |
-| `P-03` | **[Hasura Query Saver](https://github.com/tanishq-khandelwal/hasura-query-saver)** | Chrome extension that saves GraphiQL queries, variables and headers locally and re-applies them in one click. MV3 · React · IndexedDB | [Chrome Web Store](https://chromewebstore.google.com/detail/query-saver-for-hasura-gr/coagapphjgfmemppodomafdlbjhpokji) |
-
-### `[02]` At work — Talview
-
-- **#1 contributor** to Talview's frontend monorepo over the last 12 months
-- Primary developer of the operator **Console** and test-**Center** management modules
-- Core developer of the candidate **proctoring** flow and its embeddable, Shadow DOM-isolated build for third-party platforms
-- Offline-first data layer on **RxDB + IndexedDB**, synced over GraphQL
-- Led the migration of legacy frontend systems into a single modular **monorepo**
-- **Special Recognition Award** (Q1 2026) · **Key Player Award** (Q4 2025) · CEO's Certificate of Appreciation
-
-→ [Interactive tour of the Talview work](https://portfolio.tanishq.foo/talview)
-
-### `[03]` Toolbox
+### `[01]` Toolbox
 
 | | |
 |:--|:--|
