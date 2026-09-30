@@ -7,13 +7,20 @@
 
 <br />
 
-Software engineer in Bangalore. At **[Talview](https://www.talview.com)** I've been the most active contributor to our frontend monorepo over the last year — building product UIs, offline-first data layers and embeddable apps, and leading the migration of our legacy systems to a monorepo. Outside work I ship developer tools and full-stack side projects.
+**Full-stack, end to end.** I take ideas from a blank Figma frame to a shipped product — the interface, the API, the database, the release pipeline, and the product calls in between. Pixel-level UI one day, a Rust CLI or a Postgres schema the next. If it needs building, I'd rather own the whole thing than hand it off halfway.
+
+`design` → `frontend` → `backend` → `data` → `ship` — I do all of it.
 
 **[Portfolio](https://portfolio.tanishq.foo)** &nbsp;·&nbsp; **[Résumé](https://portfolio.tanishq.foo/resume)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/tanishq-khandelwal-19688321b)** &nbsp;·&nbsp; **[tanishqkhandelwal2019@gmail.com](mailto:tanishqkhandelwal2019@gmail.com)**
 
 ---
 
-### `[01]` Toolbox
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/scan-dark.svg" />
+  <img src="./assets/scan-light.svg" alt="Activity scan: GitHub contributions over the last 12 months" width="100%" />
+</picture>
+
+### `[02]` Toolbox
 
 | | |
 |:--|:--|
