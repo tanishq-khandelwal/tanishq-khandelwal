@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Tanishq Khandelwal, Software Engineer, Bangalore">
+  <style>
+    .m { font: 500 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 2.5px; text-transform: uppercase; }
+    .h { font: 600 104px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: -5px; }
+    .s { font: 500 24px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: -0.4px; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes scan { from { transform: translateY(0); } to { transform: translateY(318px); } }
+    .rec { animation: blink 1.2s steps(1) infinite; }
+    .scan { animation: scan 4s linear infinite; }
+    @media (prefers-reduced-motion: reduce) { .rec, .scan { animation: none; } }
+  </style>
+  <rect width="1200" height="360" fill="#f3f3f1"/>
+  <g stroke="#d6d6d1" stroke-width="1" opacity="0.6"><line x1="100" y1="0" x2="100" y2="360" /><line x1="200" y1="0" x2="200" y2="360" /><line x1="300" y1="0" x2="300" y2="360" /><line x1="400" y1="0" x2="400" y2="360" /><line x1="500" y1="0" x2="500" y2="360" /><line x1="600" y1="0" x2="600" y2="360" /><line x1="700" y1="0" x2="700" y2="360" /><line x1="800" y1="0" x2="800" y2="360" /><line x1="900" y1="0" x2="900" y2="360" /><line x1="1000" y1="0" x2="1000" y2="360" /><line x1="1100" y1="0" x2="1100" y2="360" /><line x1="0" y1="60" x2="1200" y2="60" /><line x1="0" y1="120" x2="1200" y2="120" /><line x1="0" y1="180" x2="1200" y2="180" /><line x1="0" y1="240" x2="1200" y2="240" /><line x1="0" y1="300" x2="1200" y2="300" /></g>
+  <path d="M20 44 V20 H44" fill="none" stroke="#0d0d0d" stroke-width="2"/><path d="M1156 20 H1180 V44" fill="none" stroke="#0d0d0d" stroke-width="2"/><path d="M20 316 V340 H44" fill="none" stroke="#0d0d0d" stroke-width="2"/><path d="M1156 340 H1180 V316" fill="none" stroke="#0d0d0d" stroke-width="2"/>
+  <rect class="scan" x="21" y="21" width="1158" height="1.5" fill="#ff3b1f" opacity="0.8"/>
+  <text x="60" y="72" class="m" fill="#6f6f6a"><tspan fill="#0d0d0d">[00]</tspan>  Software Engineer · Talview · Bangalore</text>
+  <circle class="rec" cx="1052" cy="67" r="5" fill="#ff3b1f"/>
+  <text x="1066" y="72" class="m" fill="#ff3b1f">REC</text>
+  <text x="54" y="208" class="h" fill="#0d0d0d">Tanishq Khandelwal<tspan fill="#ff3b1f">.</tspan></text>
+  <text x="60" y="262" class="s" fill="#0d0d0d">I build fast, well-crafted software — from product interfaces to the systems behind them.</text>
+  <line x1="60" y1="292" x2="1140" y2="292" stroke="#d6d6d1"/>
+  <text x="60" y="318" class="m" fill="#6f6f6a">React · TypeScript · GraphQL · Rust · Next.js</text>
+  <text x="1140" y="318" class="m" fill="#6f6f6a" text-anchor="end">portfolio.tanishq.foo</text>
+</svg>
